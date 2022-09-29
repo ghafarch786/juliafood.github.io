@@ -176,7 +176,7 @@ a.btn-seemore:hover{background: #dc3545;border-radius: 0px;}
     top: 0;
     left: 0;
     z-index: -1;
-    background: url(../images/bg.png) no-repeat center center;
+    background: url(../Images/bg.png) no-repeat center center;
     background-size: cover;
     transform: scale(1.1);
     height: 100vh;
